@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "101 manatee jokes",
+    "author": "Joe"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter",
+    "author": "unknown"
+  },
+  {
+    "id": 4,
+    "title": "cracking the coding interview",
+    "role": "Gayle"
+  },
+  {
+    "id": 5,
+    "title": "cracking the coding interview2: electric boogaloo",
+    "role": "Gayle"
+  },
+  {
+    "id": 5,
+    "title": "cracking the coding interview2: electric boogaloo",
+    "role": "Gayle"
+  }
+]

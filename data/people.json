@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Joe",
+    "role": "Instructor"
+  },
+  {
+    "id": 2,
+    "name": "Niles",
+    "role": "TA"
+  },
+  {
+    "id": 3,
+    "name": "Stefan",
+    "role": "Student"
+  },
+  {
+    "id": "4",
+    "name": "Shiva",
+    "role": "BackRest"
+  },
+  {
+    "id": "5",
+    "name": "Chris",
+    "role": "Student"
+  },
+  {
+    "id": "6",
+    "name": "Bahamut",
+    "role": "napper"
+  },
+  {
+    "id": "78",
+    "name": "joe",
+    "role": "asdfasf"
+  }
+]
